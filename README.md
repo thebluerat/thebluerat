@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=thebluerat&theme=rose&show_icons=true" />
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thebluerat" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebluerat&layout=donut&langs_count=8" />
+<div display="flex" height="150px">
+  <img display="block" height="150px" src="https://github-readme-stats.vercel.app/api?username=thebluerat&theme=rose&show_icons=true" />
+  <img display="block" height="150px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thebluerat" />
+  <img display="block" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebluerat&layout=donut&langs_count=8" />
+</div>
+
