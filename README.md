@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=thebluerat&theme=rose&show_icons=true" />
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thebluerat" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebluerat&layout=donut&langs_count=8" />
