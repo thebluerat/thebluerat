@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(https://github-readme-stats.vercel.app/api?username=thebluerat&theme=rose&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=thebluerat&theme=rose&show_icons=true" />
