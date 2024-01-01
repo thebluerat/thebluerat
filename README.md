@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **thebluerat/thebluerat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=gZip&theme=solarized_light" />
-<img src="https://capsule-render.vercel.app/api?type=transparent&theme=solarized_light&section=footer" />
+(https://github-readme-stats.vercel.app/api?username=thebluerat&theme=rose&show_icons=true)
