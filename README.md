@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </div>
 
 <div display="flex" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=BF3131&height=300&section=header&text=%20OO%20&fontAlign=20&fontColor=fff&fontSize=30&fontAlignY=50&desc=Hello...%20%20" />
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=BF3131&height=300&section=header&text=%20OO%20&fontAlign=20&fontColor=fff&fontSize=30&fontAlignY=50&desc=Hello...IamElefant%20%20" />
   <img display="block" width="50%" src="https://github-readme-stats.vercel.app/api?username=thebluerat&theme=rose&show_icons=true" />
   <img display="block" width="50%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=thebluerat" />
   <img display="block" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebluerat&layout=donut&langs_count=8" />
